@@ -1,6 +1,6 @@
 ﻿  // Copyright 2023 Kudryashov Nikita
-//#include "../../../modules/task_4/kudryashov_n_gauss_vertical/kudryashov_n_gauss_vertical_std.h"
-#include "kudryashov_n_gauss_vertical_std.h"
+#include "../../../modules/task_4/kudryashov_n_gauss_vertical/kudryashov_n_gauss_vertical_std.h"
+
 int clamp(int value, int min, int max) {
     if (value < min)
         return min;
